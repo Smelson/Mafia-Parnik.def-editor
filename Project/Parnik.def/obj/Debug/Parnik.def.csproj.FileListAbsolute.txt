@@ -1,0 +1,10 @@
+E:\rmorf.bin editor GUI\Parnik.def\Parnik.def\bin\Debug\Parnik.def.exe.config
+E:\rmorf.bin editor GUI\Parnik.def\Parnik.def\bin\Debug\Parnik.def.exe
+E:\rmorf.bin editor GUI\Parnik.def\Parnik.def\bin\Debug\Parnik.def.pdb
+E:\rmorf.bin editor GUI\Parnik.def\Parnik.def\obj\Debug\Parnik.def.Form1.resources
+E:\rmorf.bin editor GUI\Parnik.def\Parnik.def\obj\Debug\Parnik.def.Properties.Resources.resources
+E:\rmorf.bin editor GUI\Parnik.def\Parnik.def\obj\Debug\Parnik.def.csproj.GenerateResource.cache
+E:\rmorf.bin editor GUI\Parnik.def\Parnik.def\obj\Debug\Parnik.def.csproj.CoreCompileInputs.cache
+E:\rmorf.bin editor GUI\Parnik.def\Parnik.def\obj\Debug\Parnik.def.exe
+E:\rmorf.bin editor GUI\Parnik.def\Parnik.def\obj\Debug\Parnik.def.pdb
+E:\rmorf.bin editor GUI\Parnik.def\Parnik.def\obj\Debug\Parnik.def.csprojAssemblyReference.cache
